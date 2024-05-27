@@ -20,7 +20,7 @@ This is a Java application for analyzing flight data. The program reads informat
 ### Analysis Results:
 
 - Minimum flight time for each carrier:
-- Carrier: TK | Minimum flight time: 7 hours 50 minutes
+- Carrier: TK | Minimum flight time: 5 hours 50 minutes
 - Carrier: S7 | Minimum flight time: 5 hours 30 minutes
 - Carrier: SU | Minimum flight time: 6 hours 15 minutes
 - Carrier: BA | Minimum flight time: 8 hours 5 minutes
