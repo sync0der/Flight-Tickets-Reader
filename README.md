@@ -21,13 +21,13 @@ This is a Java application for analyzing flight data. The program reads informat
 
 - Minimum flight time for each carrier:
 - Carrier: TK | Minimum flight time: 5 hours 50 minutes
-- Carrier: S7 | Minimum flight time: 5 hours 30 minutes
-- Carrier: SU | Minimum flight time: 6 hours 15 minutes
+- Carrier: S7 | Minimum flight time: 6 hours 30 minutes
+- Carrier: SU | Minimum flight time: 6 hours 0 minutes
 - Carrier: BA | Minimum flight time: 8 hours 5 minutes
 
-- Average price for flights between Vladivostok and Tel Aviv: 13862.5
-- Median for flights between Vladivostok and Tel Aviv: 13550.0
-- Difference between the average price and the median: 312.5
+- Average price for flights between Vladivostok and Tel Aviv: 13960.0
+- Median for flights between Vladivostok and Tel Aviv: 13500.0
+- Difference between the average price and the median: 460.0
 
 ## Requirements
 
